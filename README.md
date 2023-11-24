@@ -1,5 +1,10 @@
 # 03 JavaScript: Password Generator
 
+## Instructions
+
+The purpose of this site is to randomly generate a password with the specified length and criteria. To generate a password, click the red button that says 'Generate Password'. Follow the prompts that appear to select the length and characters you would like the password to contain.
+Once all of the prompts have been completed a password will apear within the text box on the webpage.
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
@@ -95,6 +100,10 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
+
+## Sources
+
+Troubleshooting - Andres Jimenez (Tutor)
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
